@@ -1,6 +1,6 @@
 /* ���ó�ɫ����ı���ͼƬ */
 aside {
-    background-image: url('/images/your-background-image.jpg');
+    background-image: url('https://your-site.com/images/your-background-image.jpg');
     background-size: cover;
     background-position: center;
 }
