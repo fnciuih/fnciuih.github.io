@@ -1,0 +1,13 @@
+/* ���ó�ɫ����ı���ͼƬ */
+aside {
+    background-image: url('/images/your-background-image.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* ���ð�ɫ����ı���ͼƬ */
+main {
+    background-image: url('/images/your-background-image.jpg');
+    background-size: cover;
+    background-position: center;
+}
