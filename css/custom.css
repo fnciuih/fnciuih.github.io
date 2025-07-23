@@ -21,3 +21,13 @@
     background-size: cover !important;
     background-position: center !important;
 }
+/* ��ȫ�ֱ���ɫ��Ϊ��ɫ */
+body {
+    background-color: #ffffff !important; /* ��ɫ */
+}
+
+/* ����������������Ʊ���ɫ��Ҳһ���޸� */
+/* ���糣����ȫ�������� */
+.container {
+    background-color: #ffffff !important;
+}
