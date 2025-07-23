@@ -1,12 +1,12 @@
 /* ��ɫ���� */
-.sidebar {
+.side-col {
     background-image: url('https://fnciuih.github.io/images/your-background-image.jpg');
     background-size: cover;
     background-position: center;
 }
 
 /* ��ɫ���� */
-.content {
+.post-content {
     background-image: url('https://fnciuih.github.io/images/your-background-image.jpg');
     background-size: cover;
     background-position: center;
