@@ -4,6 +4,16 @@
     background-size: cover !important;
     background-position: center !important;
 }
+.col-lg-8 {
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+.footer-inner {
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
 
 /* ��ɫ���� */
 .post-content {
