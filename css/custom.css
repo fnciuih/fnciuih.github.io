@@ -1,13 +1,13 @@
 /* ��ɫ���� */
 .sidebar {
-    background-image: url('/images/your-background-image.jpg');
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg');
     background-size: cover;
     background-position: center;
 }
 
 /* ��ɫ���� */
 .content {
-    background-image: url('/images/your-background-image.jpg');
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg');
     background-size: cover;
     background-position: center;
 }
