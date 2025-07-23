@@ -31,3 +31,17 @@ body {
 .container {
     background-color: #ffffff !important;
 }
+/* ���������������ж�������ɫ�� */
+.side-col {
+    background-color: #ffffff !important;
+}
+
+/* ����������������ж�������ɫ�� */
+.post-content, .main-content {
+    background-color: #ffffff !important;
+}
+
+/* ͷ���͵ײ����������Ҫ�� */
+.header, .footer {
+    background-color: #ffffff !important;
+}
