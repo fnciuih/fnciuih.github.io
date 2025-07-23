@@ -30,6 +30,9 @@ body {
 /* ���糣����ȫ�������� */
 .container {
     background-color: #ffffff !important;
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
 }
 /* ���������������ж�������ɫ�� */
 .side-col {
@@ -39,9 +42,15 @@ body {
 /* ����������������ж�������ɫ�� */
 .post-content, .main-content {
     background-color: #ffffff !important;
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
 }
 
 /* ͷ���͵ײ����������Ҫ�� */
 .header, .footer {
     background-color: #ffffff !important;
+    background-image: url('https://fnciuih.github.io/images/your-background-image.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
 }
